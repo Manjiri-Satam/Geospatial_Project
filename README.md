@@ -15,6 +15,6 @@ How does street lighting relate to where and what types of crime occur in Northe
 - Spatial analysis was conducted using GIS tools to visualize patterns.
   
 ### Data Sources:
-- Geocoded streetlight data from open data portals of local UK authorities ([data.gov.uk](data.gov.uk))
+- Geocoded streetlight data from open data portals of local UK authorities ([https://data.gov.uk/](https://data.gov.uk/))
 - UK Police Crime Data with monthly, geocoded, categorized crime incidents ([https://data.police.uk/data/](https://data.police.uk/data/))
 - Police Station Boundaries from the same platform ([https://data.police.uk/data/boundaries/](https://data.police.uk/data/boundaries/))
